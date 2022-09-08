@@ -48,9 +48,10 @@ layout: default
             <!-- Selected papers -->
             {%- include selected_papers.html %}
           {%- endif %}
-          {%- if page.social %}
+          
+          <!-- {%- if page.social %} -->
           <!-- Social -->
-          <div class="social">
+          <!-- <div class="social">
             <div class="contact-icons">
             {% include social.html %}
             </div>
@@ -59,8 +60,19 @@ layout: default
               {{ site.contact_note }}
             </div>
             
-          </div>
+          </div> -->
+          <!-- {%- endif %} -->
+
+          {% if page.experiences -%}
+            {%- include experiences.html %}
           {%- endif %}
+
+
         </article>
 
-</div>
+        <br><br><br>
+        <div class="container" style="width: 80%;">
+          <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=p3oQNtB8EpFusdCTGR-DA-rHckYgs20SGCEctV2l0vM&cl=ffffff&w=a"></script>
+        </div>
+
+      </div>
