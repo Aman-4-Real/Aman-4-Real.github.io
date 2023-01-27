@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-06-30 08:00:00-0000
+date: 2022-09-08 08:00:00-0000
 inline: true
 ---
 
-Our work 「**Multi-Modal Experience Inspired AI Creation**」 is accepted by **ACM Multimedia 2022**!
+Move to this new site as my homepage!

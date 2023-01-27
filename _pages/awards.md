@@ -12,12 +12,17 @@ nav_order: 1
     <div class="table-responsive">
         <table class="table table-sm table-borderless">
         <tr>
-            <th scope="row">2021</th>
-            <td>Merit Student of Beijing</td>
-            <td>Beijing</td>
+            <th scope="row">2022</th>
+            <td>2nd Scholarship of Academic Excellence</td>
+            <td>Renmin University of China</td>
         </tr>
         <tr>
-            <th scope="row">2020, 2021</th>
+            <th scope="row">2022</th>
+            <td>Merit Student</td>
+            <td>Renmin University of China</td>
+        </tr>
+        <tr>
+            <th scope="row">2020 - 2022</th>
             <td style="float: left;">1st Class Grade Scholarship (30%)</td>
             <td>Renmin University of China</td>
         </tr>

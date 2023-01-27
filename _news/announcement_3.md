@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-05-31 08:00:00-0000
+date: 2022-06-30 08:00:00-0000
 inline: true
 ---
 
-Joined NLP Center, Tencent AI Lab as a research intern.
+Our work 「**Multi-Modal Experience Inspired AI Creation**」 is accepted by **ACM Multimedia 2022**!

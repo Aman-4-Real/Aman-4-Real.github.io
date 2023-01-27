@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-09-08 08:00:00-0000
+date: 2022-12-17 08:00:00-0000
 inline: true
 ---
 
-Move to this new site as my homepage!
+Gave a talk at 「**DataFunCon 2022 - AIGC Forum**」!
