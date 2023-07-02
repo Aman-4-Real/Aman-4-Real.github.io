@@ -3,7 +3,7 @@ layout: page
 permalink: /awards/
 title: Awards
 description: 
-years: [2022]
+years: [2016-2023]
 nav: true
 nav_order: 1
 ---
@@ -11,6 +11,11 @@ nav_order: 1
 <div class="publications">
     <div class="table-responsive">
         <table class="table table-sm table-borderless">
+        <tr>
+            <th scope="row">2023</th>
+            <td>Outstanding Graduate</td>
+            <td>Renmin University of China</td>
+        </tr>
         <tr>
             <th scope="row">2022</th>
             <td>2nd Scholarship of Academic Excellence</td>

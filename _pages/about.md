@@ -18,7 +18,7 @@ experiences: true  # includes a list of experiences
 awards: true  # includes a list of awards
 ---
 
-I am currently a final year master student at Gaoling School of Artificial Intelligence ([GSAI](http://ai.ruc.edu.cn/)), Renmin University of China ([RUC](https://www.ruc.edu.cn/)). I am advised by Prof. [Ruihua Song](https://scholar.google.com.hk/citations?user=v5LctN8AAAAJ&hl=en). Prior to this, I graduated from School of Information, Renmin University of China where I obtained my bachelor degree in 2020.
+I am currently an incoming PhD student at Gaoling School of Artificial Intelligence ([GSAI](http://ai.ruc.edu.cn/)), Renmin University of China ([RUC](https://www.ruc.edu.cn/)). I am advised by Prof. [Ruihua Song](https://scholar.google.com.hk/citations?user=v5LctN8AAAAJ&hl=en). Prior to this, I graduated from School of Information and Gaoling School of Artificial Intelligence, Renmin University of China where I obtained my bachelor's degree and master's degree in 2020 and 2023, respectively.
 
 **Research Interests**
 
