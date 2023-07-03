@@ -3,7 +3,7 @@ layout: page
 permalink: /awards/
 title: Awards
 description: 
-years: [2016-2023]
+years: [2023]
 nav: true
 nav_order: 1
 ---
