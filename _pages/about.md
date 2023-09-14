@@ -22,5 +22,6 @@ I am a PhD student at Gaoling School of Artificial Intelligence ([GSAI](http://a
 
 **Research Interests**
 
-* Natural Language Generation
-* Dialogue System: Open Domain & Multi-modality
+* Multimodality for LLMs & Text Generation
+* Multimodal Dialogue Systems
+* Interpretability of Multimodality
