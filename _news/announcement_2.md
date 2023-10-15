@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-03-06 08:00:00-0000
+date: 2023-06-26 08:00:00-0000
 inline: true
 ---
 
-Leave NLP Center, Tencent AI Lab.
+Received my master's degree! Happy graduation!

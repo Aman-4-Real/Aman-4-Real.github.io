@@ -1,8 +1,7 @@
 ---
 layout: post
-date: 2023-06-26 08:00:00-0000
+date: 2023-09-03 08:00:00-0000
 inline: true
 ---
 
-Got my master's degree! Happy graduation!
-
+Started a new journey as a PhD student at GSAI, RUC.
