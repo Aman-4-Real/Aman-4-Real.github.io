@@ -16,12 +16,16 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 experiences: true  # includes a list of experiences
 awards: true  # includes a list of awards
+services: true  # includes a list of services
 ---
 
 I am a PhD student at Gaoling School of Artificial Intelligence ([GSAI](http://ai.ruc.edu.cn/)), Renmin University of China ([RUC](https://www.ruc.edu.cn/)). I am advised by Prof. [Ruihua Song](https://scholar.google.com.hk/citations?user=v5LctN8AAAAJ&hl=en). Prior to this, I graduated from School of Information and Gaoling School of Artificial Intelligence, Renmin University of China where I obtained my bachelor's degree and master's degree in 2020 and 2023, respectively.
 
 **Research Interests**
 
-* Multimodality for LLMs & Text Generation
-* Multimodal Dialogue Systems
-* Interpretability of Multimodality
+* Multimodal Text Generation
+* Vision and Language
+* Applications on LLMs
+
+
+

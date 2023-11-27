@@ -44,6 +44,7 @@ layout: default
           <!-- News -->
           {%- include news.html %}
           {%- endif %}
+          
           {% if page.selected_papers -%}
             <!-- Selected papers -->
             {%- include selected_papers.html %}
@@ -65,6 +66,10 @@ layout: default
 
           {% if page.experiences -%}
             {%- include experiences.html %}
+          {%- endif %}<br>
+
+          {% if page.services -%}
+            {%- include services.html %}
           {%- endif %}
 
 
