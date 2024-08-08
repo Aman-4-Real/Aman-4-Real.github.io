@@ -4,7 +4,7 @@
 ./bin/dockerhub_run.sh
 
 
-### src 分支下 git commit 之后运行
+### src 分支下 git commit & push 之后运行
 ./bin/deploy
 
  
