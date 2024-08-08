@@ -1,7 +1,10 @@
 ---
 layout: post
-date: 2023-09-03 08:00:00-0000
+date: 2024-07-16 08:00:00-0000
 inline: true
 ---
 
-Started a new journey as a PhD student at GSAI, RUC.
+Our work **See or Guess: Counterfactually Regularized Image Captioning** was accepted by **ACM MM 2024**!
+
+
+

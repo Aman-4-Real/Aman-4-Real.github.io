@@ -23,9 +23,9 @@ I am a PhD student at Gaoling School of Artificial Intelligence ([GSAI](http://a
 
 **Research Interests**
 
-* Multimodal Text Generation
-* Vision and Language
-* Applications on LLMs
+* **Vision & Language**, especially **Multimodal Text Generation**
+* Text Generation problems in **Creative** scenarios
+* Large Language Models (LLMs) & their Applications
 
 
 
