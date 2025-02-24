@@ -9,5 +9,7 @@
 "arXiv":
   color: "#b31b1b"
 
-
+"EMNLP 2024":
+  url: https://2024.emnlp.org/
+  color: "#a3b18a"
 
