@@ -3,7 +3,7 @@ layout: page
 permalink: /awards/
 title: Awards
 description: 
-years: [2023]
+years: []
 nav: true
 nav_order: 1
 ---
@@ -11,6 +11,16 @@ nav_order: 1
 <div class="publications">
     <div class="table-responsive">
         <table class="table table-sm table-borderless">
+        <tr>
+            <th scope="row">2025</th>
+            <td style="float: left;">2nd Class Grade Scholarship</td>
+            <td>Renmin University of China</td>
+        </tr>
+        <tr>
+            <th scope="row">2024</th>
+            <td>Student Travel Grant</td>
+            <td>ACM Multimedia</td>
+        </tr>
         <tr>
             <th scope="row">2023</th>
             <td>Outstanding Graduate</td>
@@ -27,8 +37,8 @@ nav_order: 1
             <td>Renmin University of China</td>
         </tr>
         <tr>
-            <th scope="row">2020 - 2022</th>
-            <td style="float: left;">1st Class Grade Scholarship (30%)</td>
+            <th scope="row">2020 - 2024</th>
+            <td style="float: left;">1st Class Grade Scholarship</td><!--  (30%) -->
             <td>Renmin University of China</td>
         </tr>
         <tr>
