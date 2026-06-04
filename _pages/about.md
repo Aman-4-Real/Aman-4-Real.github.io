@@ -21,24 +21,18 @@ services: true  # includes a list of services
 
 I am a PhD student at Gaoling School of Artificial Intelligence ([GSAI](http://ai.ruc.edu.cn/)), Renmin University of China ([RUC](https://www.ruc.edu.cn/)). I am advised by Prof. [Ruihua Song](https://scholar.google.com.hk/citations?user=v5LctN8AAAAJ&hl=en). Prior to this, I graduated from School of Information and Gaoling School of Artificial Intelligence, Renmin University of China where I obtained my bachelor's degree and master's degree in 2020 and 2023, respectively.
 
-My research centers on building intelligent systems that integrate <b>multimodal understanding, creative reasoning, and open-domain generation</b>, with a focus on advancing both the controllability and applicability of AI in real-world scenarios.
+My research and long-term goal center on building AI systems that seamlessly integrate <b>open-domain reasoning, creativity, and multimodal understanding</b>, enabling machines not only to understand the world, but also to generate meaningful and creative content across modalities.
 
 <b>Main Research Interests</b>:
 
-<!-- * **Creative AI**: -->
 * <b>Creative AI</b>:
 Developing and evaluating LLMs for controllable and human-like creative text generation.
 
-* <b>Multimodal Understanding & Interaction</b>:
+* <b>Agentic LLM Systems</b>:
+Constructing efficient agentic LLM systems, from foundational models to knowledge-augmented applications.
+
+* <b>Multimodal Understanding</b>:
 Exploring vision-language interplay and building multimodal LLMs with stronger cross-modal reasoning abilities.
 
-* <b>Applied LLM Systems</b>:
-Constructing efficient and domain-specific LLM systems, from foundational models to knowledge-augmented applications.
 
-*My long-term goal is to develop AI systems that seamlessly unify perception, knowledge, and creativity, enabling machines not only to understand the world, but also to generate meaningful and creative content across modalities*.
-
-
-
-
-
-
+**<span style="color: red;">I will graduate in 2027 and am currently seeking full-time opportunities in both industry and academia. Please feel free to reach out at <span style="color: #0066cc; text-decoration: underline;">caoqian4real@ruc.edu.cn</span>.</span>**
